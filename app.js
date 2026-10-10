@@ -109,7 +109,10 @@ function makeAudio(src, label, seconds) {
     if (audio.ended) audio.currentTime = 0;
     try {
       await audio.play();
-    } catch {
+      player.classList.remove('has-error');
+      updateTime();
+    } catch (error) {
+      if (error.name === 'AbortError') return;
       player.classList.add('has-error');
       time.textContent = 'Unavailable';
     }
