@@ -1,0 +1,396 @@
+{
+  "groups": [
+    {
+      "id": "audio-scenes",
+      "label": "Complete Scenes",
+      "mode": "scene",
+      "type": "scene",
+      "samples": [
+        {
+          "number": "01",
+          "audio": "assets/audio/0793aaac79d3b4878fb33ce31ec45aa339691d6c017fd76279856dcd19e45059.wav",
+          "duration": 109.1,
+          "description": "Environment: { The scene opens with crowd cheering, followed by faint indoor voices. Background music changes from energetic pop rock to light orchestral music, then a looping electronic pop cue, and finally a relaxed jazz passage. }. Speaker: { Speaker1: A young female newsreader, objective and professional, with an impassioned tone, a relatively fast speaking rate, and a clear, bright vocal texture; Speaker2: A woman in her twenties in a confiding role, gentle and firm with a touch of playfulness, a mid-range pitch, a moderate speaking rate, and a soft vocal texture; Speaker3: A man in his twenties in the role of a domineering CEO, straightforward and slightly impatient, with a mid-range pitch, a relatively fast speaking rate, and a clear vocal texture; Speaker4: A woman in her twenties, angry and impatient, with a mid-range pitch and a relatively fast speaking rate. }. Content: { Over <Audio>crowd cheering</Audio>, Speaker1 speaks rapidly in an excited newsreader voice: <S1>breaking news! arcadia's reigning pop diva, nancy, has retired from the entertainment industry!</S1> Against energetic pop rock, Speaker1 continues: <S1>everyone is begging the long retired nancy, arcadia's reigning pop diva, to return to the stage and defend the nation's honor!</S1> Speaker4 asks angrily: <S4>who picked this awful picture?</S4> A <Audio>medium-length transition effect</Audio> follows. Against orchestral music, Speaker2 speaks slowly and earnestly: <S2>tyler, i stepped back for five years to write your songs and make you a superstar. i have no regrets. today is our anniversary. it's time to tell you who i really am.</S2> Electronic pop plays as a sequence of <Audio>the sound of a car gradually approaching</Audio>, <Audio>a car door opening</Audio>, <Audio>a car door closing</Audio>, and <Audio>the sound of a car driving away</Audio> unfolds. The background music switches to jazz. Speaker3 enters and stammers: <S3>you're that sy... sy... syl...</S3> An <Audio>awkward reaction effect</Audio> follows. Speaker4 impatiently cuts him off: <S4>sylvia.</S4> An <Audio>effect conveying determination</Audio> follows. Speaker3 then speaks in a domineering manner: <S3>that's right. come with me, we're getting married.</S3> Speaker4 makes <Audio>a water-spraying sound</Audio>, accompanied by <Audio>a shocked reaction effect</Audio>. }."
+        },
+        {
+          "number": "02",
+          "audio": "assets/audio/890d0677e8f45c78bc2c9ade9d37f579e25370ff92b07f552aba3e835efd833f.wav",
+          "duration": 74.0874375,
+          "description": "Environment: { Continuous rain and thunder. }. Speaker: { Speaker1: A young male armed courier, cold and greedy, with a low pitch, restrained delivery, a moderate speaking rate, and a rugged vocal texture; Speaker2: An elderly man in his sixties, sinister and composed, with a hoarse tone, a slow speaking rate, and an aged vocal texture. }. Content: { With <Audio>thunder</Audio>, Speaker1 calmly questions the other man: <S1>old man, you know my courier rules. we don't keep corpses overnight. but why is there a heart beat in this coffin?</S1> <Audio>Several muffled knocks</Audio> follow. Speaker2 asks angrily: <S2>courier chen, of all the couriers around, you never ask about origins or destinations. why so curious today?</S2> With <Audio>the sound of catching a bag</Audio>, Speaker1 states firmly: <S1>i don't care what's inside. you know my rules, different prices for the dead and the living. this thing is neither, so pay extra.</S1> <Audio>Several heavy knocks</Audio> follow. Speaker2 asks impatiently: <S2>is this the coffin ward?</S2> After a pause, Speaker2 continues: <S2>you knew what was in the coffin. instead of running, you just asked for more money. you've got skills, but you're the most ruthless courier.</S2> <Audio>Coins falling to the ground</Audio> and <Audio>continued heavy knocking</Audio> are heard. Speaker1 flatly ends the exchange: <S1>the deal is done. we go our separate ways.</S1>, accompanied by <Audio>the sound of collecting money</Audio>. Speaker2's tone turns obsessive: <S2>my dear grandson, grandpa raised you for seven years. giving me another fifty years of life is the least you can do to repay me.</S2> <Audio>Violent knocking</Audio> and <Audio>rapid footsteps</Audio> follow. The surrounding sounds become more agitated. With <Audio>a low growl</Audio> and <Audio>an effect of being grabbed</Audio>, Speaker2 cries out in panic: <S2>it's a dark wraith! this is bad! chief chen! save me!</S2> }."
+        },
+        {
+          "number": "03",
+          "audio": "assets/audio/5aa9b82bfa5ab6b6700a2c304200ee588574dc419492a3e12acf0349de16fcf2.flac",
+          "duration": 155.07525,
+          "description": "Environment: { Soft background music opens the scene. Its tempo then increases and develops a clear low-frequency pulse; strings join to create a more playful tone. The argument is accompanied by fast, tense music, followed by quieter, slower music with gentle dynamic changes. Light, bouncy, humorous music returns at the end. Bubbling and water sounds occur throughout the exchange. }. Speaker: { Speaker1: A young woman with a bright, high voice, quick pace, and the eager manner of an animated younger sister; Speaker2: A young woman addressed as the eldest sister, with a warm, steady voice and calm, reassuring authority; Speaker3: A young man in a comic outsider role, with a bright, slightly rough voice, colloquial diction, and a quick conversational pace; Speaker4: A young woman with a sharp, cool tone, clipped diction, and a consistently disdainful manner. }. Content: { With soft background music, Speaker1 calls out eagerly: <S1>sister, it's already day three! when will this mystic egg hatch?</S1> Speaker2 answers gently: <S2>hold on a little longer, sisters. almost there.</S2> A <Audio>brief, dry crackling sound</Audio> follows. Speaker1 then shouts: <S1>hey, look! it's opening! it's opening!</S1> A <Audio>short, sharp impact</Audio> and <Audio>underwater bubbling sounds</Audio> are heard. The background music gives way to a <Audio>gradually intensifying shimmering effect</Audio>, followed by a <Audio>transition effect</Audio>. Speaker3 blurts out a string of bewildered questions: <S3>oh! holy crap! what's going on? am i at work? i fell asleep slacking, now i'm actually underwater?</S3> The background music grows faster and shifts to a clear low-frequency pulse. Speaker3 continues: <S3>wait, where are my limbs? this view, am i a fish? i even blow fucking bubbles when i talk. this is? mermaid lady?</S3> A bubbly texture accompanies his delivery. Speaker4 responds coldly: <S4>seven main branch daughters of our nine ray tribe, prayed and wasted three days of spiritual power, to hatch our ninth member, and, we get this thing?</S4> A <Audio>magical sound effect</Audio> follows. Strings join the background music, making it more playful. Speaker3 asks: <S3>what?</S3> Speaker4 dismisses him: <S4>zero spiritual power. it doesn't even qualify as lower rank nine. it's just a trash fish only fit to eat algae.</S4> Speaker3 protests: <S3>what do you mean?</S3> The background music changes to fast, tense music accompanied by <Audio>shimmering and spinning effects</Audio>. Speaker4 explains the ranking system with contempt: <S4>in the demon race's nine rank three tier system, rank one is strongest, rank nine is lowest. each rank has upper, middle, and lower tiers. anything below rank nine is talentless unranked trash. he doesn't even qualify for a rank. pure trash!</S4> A <Audio>short, clear high-pitched tone</Audio> is heard around the explanation. Speaker3 argues back: <S3>pretty sister in purple, how can you insult a fish?</S3> Speaker4 snaps at him: <S4>i mean you! keeping you alive is a waste of spiritual power. i might as well eat you for a good meal!</S4> The background music speeds up and becomes more tense. A <Audio>low growl</Audio> is heard. Speaker3 cries out in alarm: <S3>ah! your sister looks pretty, but why boil me so soon? just transmigrated, met beauties, and now i'm getting eaten? seriously?</S3> <Audio>Swishing water and splashing sounds</Audio> follow. The background music becomes quieter and slower, with gentle dynamic changes, accompanied by <Audio>water sounds</Audio>. Speaker4 gives a disgusted order: <S4>a stinky male fish! too gross to eat, just strangle him!</S4> Speaker3 shouts back: <S3>sure, i'm male, but i don't stink!</S3> <Audio>A burst of swishing water</Audio> is heard. Speaker2 cuts in: <S2>橙光, 紫离, stop!</S2> Speaker1 calls for her sister: <S1>look! sister's here! sister!</S1> <Audio>Another burst of swishing water</Audio> is heard. Speaker3 pleads: <S3>you, you, you, let me go!</S3> Speaker2 speaks soothingly about the koi: <S2>sisters, you've worked hard these three days. in ancient legends, the koi form symbolizes fortune and opportunity. it may be weak now, but perhaps it'll bring our tribe some unexpected fortune.</S2> <Audio>Continuous water sounds</Audio> accompany the exchange. Speaker3 eagerly agrees: <S3>yeah, exactly! the big sister in blue is right! i'm a koi, a lucky charm! eating me is bad luck, keeping me guarantees good things!</S3> Speaker2 remarks: <S2>look, it's quite spiritual.</S2> Speaker4 remains dismissive: <S4>eldest sister, you're too kind. fortune means nothing in this lake. strength is king! i say, just let me eat this blabbermouth male fish!</S4> The light, bouncy, humorous background music returns, accompanied by <Audio>continuous splashing sounds</Audio>. Speaker3 protests loudly: <S3>you, you greedy girl, let me go! i'm a lucky charm! who eats a lucky charm? let go! did you hear me?</S3> }.",
+          "references": [
+            {
+              "label": "S1 reference",
+              "audio": "assets/audio/a0467924c369c6d16f03522ff604f446100cef675b03fc0e314ac730872d2d8e.wav",
+              "duration": 8.28
+            },
+            {
+              "label": "S2 reference",
+              "audio": "assets/audio/2c793d9278dfb900751fe80bef73339db8981ac80d5dac8578513da10785dd65.wav",
+              "duration": 9.12
+            },
+            {
+              "label": "S3 reference",
+              "audio": "assets/audio/6fc651a80e8ebad6e13c497ead6a366656c178bb006086b4b6f49c183b5eb526.wav",
+              "duration": 8.28
+            },
+            {
+              "label": "S4 reference",
+              "audio": "assets/audio/9b8b46f3bbc314d270e95338e40671bbf20d3e9c27290630de530e9c97d946c3.wav",
+              "duration": 8.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comic-drama",
+      "label": "Comic Drama",
+      "mode": "design",
+      "samples": [
+        {
+          "number": "01",
+          "description": "Environment: { A quiet indoor recording space with no noticeable background noise; the voice is clear and prominent. }. Speaker: { Speaker1: A woman in her twenties with a sweet, delicate voice, soft pitch, and slow, gentle delivery that conveys dependence and hurt. }. Content: { Speaker1 speaks softly, with a tired, slightly plaintive tenderness: <S1>老公，你是不是又忙到忘了吃晚饭？我做了你最喜欢的莲子羹，一直在这里等不到你回来。</S1> }.",
+          "audio": "assets/audio/81df66cd13a13be30e28af67bdd77b7923e69684f7cfead66b3e331934441758.wav",
+          "duration": 8.5
+        },
+        {
+          "number": "02",
+          "description": "Environment: { A quiet indoor recording space with no noticeable background noise; the voice is clear and prominent. }. Speaker: { Speaker1: A man around fifty with a deep, authoritative voice and stern, traditional manner. }. Content: { Speaker1 speaks in a full, furious voice: <S1>荒谬。我宗门立派百年，从未有过如此荒唐之事。若每个人都像你这般随心所欲，那门规戒律岂非成了摆设？</S1> }.",
+          "audio": "assets/audio/d78fe0228fa029e57d9efd5c03eb38feef09c84fdd1d20f7200d7917abf5c161.wav",
+          "duration": 13.7
+        },
+        {
+          "number": "03",
+          "description": "Environment: { A quiet indoor recording space with no noticeable background noise; the voice is clear and prominent. }. Speaker: { Speaker1: A young woman with a sweet, delicate voice, gentle pitch, and restrained, affectionate delivery. }. Content: { Speaker1 speaks softly and affectionately: <S1>能得公子这一句称赞，便是这一夜辛苦绣出的帕子，也不觉得枯燥了。只盼这帕子能替我伴着公子。</S1> }.",
+          "audio": "assets/audio/67af9a73ac5597ab6829cda2d020bf00e82b00853c08b058bc50cd0740e1d553.wav",
+          "duration": 11.5
+        },
+        {
+          "number": "04",
+          "description": "Environment: { A quiet indoor recording space with no noticeable background noise; the voice is clear and prominent. }. Speaker: { Speaker1: A young man with a cool, steady voice and aloof, commanding manner. }. Content: { Speaker1 speaks possessively, leaving little room for refusal: <S1>我给过你离开的机会，但既然你选择了留下来，那么从今以后，没有我的允许，你哪儿都不许去。</S1> }.",
+          "audio": "assets/audio/b82aeb801943d3b060007f632572b36b59571d4c5ed39a5bcdd7e94daf61ef25.wav",
+          "duration": 10.6
+        },
+        {
+          "number": "05",
+          "description": "Environment: { A quiet indoor recording space with no noticeable background noise; the voice is clear and prominent. }. Speaker: { Speaker1: A young woman with a sweet, bright voice, quick, excited pace, and an earnest, romantic tone. }. Content: { Speaker1 speaks rapidly with excited conviction and a smile in her voice: <S1>只要能和他在一起，就算要我放弃所有的一切，我也心甘情愿。我相信，他一定是爱我的！</S1> }.",
+          "audio": "assets/audio/dc6faad6772dbd391332f3c4ed5ee29335b8c38b3d9825f8be9b838f1f3a8b1d.wav",
+          "duration": 10.1
+        }
+      ]
+    },
+    {
+      "id": "general-scene",
+      "label": "General Scene",
+      "mode": "design",
+      "samples": [
+        {
+          "number": "06",
+          "description": "Environment: { A quiet indoor recording space with no noticeable background noise; the voice is clear and prominent. }. Speaker: { Speaker1: A woman around forty with a professional, neutral voice, mid-high pitch, even pace, and precise articulation. }. Content: { Speaker1 delivers the news in a measured broadcast style: <S1>各位观众朋友大家好，欢迎收看今天的整点新闻。据本台消息，今日我市将迎来大范围降温天气。</S1> }.",
+          "audio": "assets/audio/2510518bbf4dd150adcbdccf4ab59cbbfbf504ae6a631082fb983e85cdcd731d.wav",
+          "duration": 11.0
+        },
+        {
+          "number": "07",
+          "description": "Environment: { A quiet indoor recording with no noticeable background noise; the voice is clear and prominent. }. Speaker: { Speaker1: A young man with a bright, playful voice, clear Mandarin pronunciation, and an outgoing, teasing manner. }. Content: { Speaker1 speaks with amused, self-satisfied teasing: <S1><|sp|>怎么样？你没事吧，这么惨啊，你刚刚这个糗样子，要是被同事知道了，你该怎么办呢？有五千块钱呢，我就帮你保密。<|sp|></S1> His questions rise theatrically; the joking threat is delivered with growing confidence. }.",
+          "audio": "assets/audio/cdc1afde53ac2d6a6e484b4e21af67ff0b8595e90da30bf5c487f74db5018e15.wav",
+          "duration": 11.1
+        },
+        {
+          "number": "08",
+          "description": "Environment: { A quiet indoor recording with no noticeable background noise; the voice is clear and prominent. }. Speaker: { Speaker1: A middle-aged woman with a relatively high, slightly rough voice and an anxious, pleading tone. }. Content: { Speaker1 asks with hurt and worry: <S1>我们家好容易恢复成这个样子，你明知有危险，为什么还一定要拉着杉杉？</S1> She speaks slowly, with a slight catch in her voice, growing louder on the emotional words. }.",
+          "audio": "assets/audio/53889177c75e6bd876aa4da51fde2dd100bd02cecee2eba2b002ff0349ac963a.wav",
+          "duration": 7.9
+        },
+        {
+          "number": "09",
+          "description": "Environment: { A quiet indoor recording with no noticeable background noise; the voice is clear and prominent. }. Speaker: { Speaker1: A young man with a slightly tense voice that turns rough and tearful as his emotion rises. }. Content: { Speaker1 questions the other person in pain and frustration: <S1>如果我们真的没事发生过的话，你直接出来跟我说说再见就行了。为什么要写信呢？为什么？</S1> He begins with restrained control, then speeds up and raises his voice; the repeated question trembles with tears. }.",
+          "audio": "assets/audio/4af6223821a099bdf0db35bcaa4df07eab7eba5ef4b31843925b0d9c172b3619.wav",
+          "duration": 9.6
+        },
+        {
+          "number": "10",
+          "description": "Environment: { A quiet indoor recording with no noticeable background noise; the voice is clear and prominent. }. Speaker: { Speaker1: A middle-aged man with a deep, weighty, slightly rough voice and firm, decisive delivery. }. Content: { Speaker1 challenges the other person angrily: <S1>你以为你不再贩毒了，就可以解救其他人的性命吗？你们毒害过多少人？</S1> His pace is measured and forceful, with the second question pressed harder. }.",
+          "audio": "assets/audio/2bd15a3309b2ccd6c9a8718b0a23601e7d1dbe31925f41dda843d6f63580e469.wav",
+          "duration": 7.6
+        }
+      ]
+    },
+    {
+      "id": "advertising",
+      "label": "Advertising",
+      "mode": "design",
+      "samples": [
+        {
+          "number": "11",
+          "description": "Environment: { A quiet indoor recording space with no noticeable background noise; the voice is clear and prominent. }. Speaker: { Speaker1: A woman in her twenties or thirties with a poised voice and a patient, sincere manner. }. Content: { Speaker1 explains the product patiently: <S1>这款沐浴露真的很适合谈恋爱用，十个男人九个都忘不了你。洗完澡，身体会散发出那种伪体香，它的味道跟体温一融合，会变得特别撩人。像那种自带的宝宝香，还带点甜甜的奶香，就是那种人畜无害的感觉，让人很有保护欲。这是我做空姐的闺蜜给我推荐的，真的超级好用，用它洗完澡，那个味道真的绝了。它是那种比较小众的味道，不是那种街香，有对象的、有暧昧对象的，一定要去试一下。真的就是秘密神器，而且它的留香时间也是真的久。</S1> }.",
+          "audio": "assets/audio/4e516b42ac98b14bc9fe699025033e9dc3c8ea5ff874876307d5edb85698200e.wav",
+          "duration": 34.0
+        },
+        {
+          "number": "12",
+          "description": "Environment: { A quiet indoor recording space with no noticeable background noise; the voice is clear and prominent. }. Speaker: { Speaker1: A woman in her twenties or thirties with a bright voice, lively pace, and confident, enthusiastic delivery. }. Content: { Speaker1 recommends the product energetically: <S1>姐妹们，脸上的斑点、暗沉蜡黄是不是总让你不敢抬头？别再被那些无效的祛斑套餐坑了！这个淡斑好物真的绝，能达成肌肤白透嫩，我用完直接被自己的皮肤惊到，真的会白！关键是它全肤质适用，温和亲肤不刺激，上脸清爽不干燥，味道还很好闻。不管是脸颊的晒斑还是熬夜的暗沉，坚持用它都能看到变化，美白提亮效果真的超预期，还能舒缓肌肤，保障肌肤状态稳定。别再犹豫了，直接点下方链接带回家试试，品牌正品有保障，变美这件事可不能等！</S1> }.",
+          "audio": "assets/audio/9306b86f23ec2623b94d5b2a394516b9d3c06cc481a1e2d94d299286971c4419.wav",
+          "duration": 32.4
+        },
+        {
+          "number": "13",
+          "description": "Environment: { A quiet indoor recording space with no noticeable background noise; the voice is clear and prominent. }. Speaker: { Speaker1: A man in his fifties with a weathered voice and warm, sincere delivery. }. Content: { Speaker1 recommends the tool in a friendly, conversational tone: <S1>谁懂啊，用即创做营销视频，不用懂剪辑，不用会写稿，小白也能当大神，根本停不下来。</S1> }.",
+          "audio": "assets/audio/8da059e87a43f33c109664b84acb68c2152a759dbfc1a50edebf18e2c815bb58.wav",
+          "duration": 7.8
+        },
+        {
+          "number": "14",
+          "description": "Environment: { A quiet indoor recording space with no noticeable background noise; the voice is clear and prominent. }. Speaker: { Speaker1: A woman in her late twenties or early thirties with a warm, gentle voice and a caring, personal tone. }. Content: { Speaker1 speaks with concern: <S1>秋冬换季，宝宝脸干得起皮、红得像小苹果？别慌，这款宝宝面霜帮你搞定！</S1> }.",
+          "audio": "assets/audio/e7527348996b71dd0557ab6e730dce8927a6403b018e6b14c1ded12b876258c7.wav",
+          "duration": 6.9
+        },
+        {
+          "number": "15",
+          "description": "Environment: { A quiet indoor recording space with no noticeable background noise; the voice is clear and prominent. }. Speaker: { Speaker1: A woman between twenty-five and forty-five with a natural, approachable voice and an easygoing, personal tone. }. Content: { Speaker1 jokes lightly: <S1>这苹果丑不拉几的，能好吃？别被它的颜值骗了！人家可是大名鼎鼎的昭通丑苹果。</S1> }.",
+          "audio": "assets/audio/30c790cf3027bcafc193b222477076574c1af024f43aed4c7807040a0e460bea.wav",
+          "duration": 7.7
+        }
+      ]
+    },
+    {
+      "id": "scene-audio",
+      "label": "Unified Audio",
+      "mode": "scene",
+      "samples": [
+        {
+          "number": "16",
+          "description": "Environment: { A quiet kitchen. Hot oil crackles softly in a pan. }. Speaker: { None. }. Content: { <Audio>An eggshell cracks and the egg falls into hot oil.</Audio><Audio>The egg white hits the oil and erupts into a dense, crisp sizzle.</Audio> }.",
+          "audio": "assets/audio/cd3b54a902ad8bdd88d892fe16c68fa96b338e9d7095e8995f6357bbaf801845.wav",
+          "duration": 10.0
+        },
+        {
+          "number": "17",
+          "description": "Environment: { A quiet concert hall stage with natural reverberation. A passionate, high-register violin solo is clear and prominent. }. Speaker: { None. }. Content: { <Audio>The bow moves steadily across the strings, producing long, high, expressive violin phrases.</Audio> }.",
+          "audio": "assets/audio/5ead7c2f5c0182bb12b5771447abb560c543807a8c0d8d79a9c69dcffea68d41.wav",
+          "duration": 9.9
+        },
+        {
+          "number": "18",
+          "description": "Environment: { At a busy Shibuya crossing, crowd chatter, low traffic rumble, and pedestrian signals overlap. }. Speaker: { Speaker1: A Japanese teenage girl with a high, lively voice and excited delivery; Speaker2: Another Japanese teenage girl with a bright, youthful voice and enthusiastic tone. }. Content: { <Audio>A dense crowd and continuous traffic</Audio><Audio>Electronic pedestrian-crossing signals</Audio> Speaker1 calls out excitedly: <S1>見て！あれ、新しいグループじゃない？</S1> Speaker2 responds with equal excitement: <S2>本当だ！めっちゃかっこいい！</S2> }.",
+          "audio": "assets/audio/7ff0a700824e48586d821979b69fa371a858fc3e26a62197e2b52a60e48801fe.wav",
+          "duration": 9.9
+        },
+        {
+          "number": "19",
+          "description": "Environment: { A stormy coastal cliff. Wind howls and heavy waves crash against the rocks. }. Speaker: { Speaker1: A man in his forties or fifties with a low, strained, slightly rough voice and urgent delivery. }. Content: { <Audio>Continuous wind and roaring surf</Audio><Audio>Intermittent interference on a satellite phone</Audio> Speaker1 speaks urgently over the wind: <S1>The signal is breaking up... The storm is worse than they predicted!</S1><Audio>A strong gust passes and a heavy wave strikes the cliff.</Audio> }.",
+          "audio": "assets/audio/f6c367fc900890915a90a3c46a6451000f7892d3f1ad682db4dbc450d7ba687e.wav",
+          "duration": 9.9
+        },
+        {
+          "number": "20",
+          "description": "Environment: { A quiet, warm room where logs crackle softly in a fireplace. }. Speaker: { Speaker1: A Russian woman in her early twenties with a soft, low voice and a wistful singing tone. }. Content: { <Audio>Firewood burns with a soft, steady crackle.</Audio> Speaker1 sings quietly: <S1>Ой, то не вечер...</S1> }.",
+          "audio": "assets/audio/ed2210a4d8e8fbfc273064567ae52212c5ae31843c00e0deebd04a119571922f.wav",
+          "duration": 10.0
+        }
+      ]
+    },
+    {
+      "id": "single-speaker-zero-shot",
+      "label": "Single-speaker",
+      "mode": "clone",
+      "type": "reference",
+      "samples": [
+        {
+          "number": "01",
+          "references": [
+            {
+              "label": "Reference",
+              "audio": "assets/audio/90625101c35bd265bffaa0b2b68202ac395ce448b8d79c8e212a03c243acc28d.wav",
+              "duration": 9.08
+            }
+          ],
+          "audio": "assets/audio/402313a4f2a613477d90dfb9d4bf0daba677ce4cd7961e8d2b6ea599a281c50b.wav",
+          "duration": 12.08,
+          "description": "Content: { Speaker1 reflects on acting in a measured, thoughtful tone: <S1>我一直觉得，观众最后记住你的，不一定是最热闹的那场戏，反而常常是一个很轻的眼神，或者一句很普通，但你说的特别真的台词。</S1> }."
+        },
+        {
+          "number": "02",
+          "references": [
+            {
+              "label": "Reference",
+              "audio": "assets/audio/9bde2776f8efa827139356ea0392034226940c95f458abef57565fc56663e51a.wav",
+              "duration": 24.0
+            }
+          ],
+          "audio": "assets/audio/aa60ad829e5ade3faa9e44e1a1ea06a6b2f77b22242d430fbef9ff79b9e0e37c.wav",
+          "duration": 10.12,
+          "description": "Content: { Speaker1 delivers the statement steadily, with restrained conviction: <S1>Progress rarely begins with comfort. It begins when someone chooses to speak clearly, even at the risk of being disliked, because silence has simply become too expensive.</S1> }."
+        },
+        {
+          "number": "03",
+          "references": [
+            {
+              "label": "Reference",
+              "audio": "assets/audio/bc5e3b80ca7438847f0478c9581088f0f8d3aa066a33ac603022a9192db16e3f.wav",
+              "duration": 12.86
+            }
+          ],
+          "audio": "assets/audio/48728bab4e374296b010d8dbc396b66936fa88862df13dc8ddfbd11873fabe5d.wav",
+          "duration": 11.96,
+          "description": "Content: { Speaker1 states his point in a composed, professional tone: <S1>For a long time, software adapted to the computer. Now the computer is being redesigned for intelligence itself, and that shift will redefine not just products, but entire industries.</S1> }."
+        }
+      ]
+    },
+    {
+      "id": "two-speaker-zero-shot",
+      "label": "2 Speakers",
+      "mode": "clone",
+      "type": "reference",
+      "samples": [
+        {
+          "number": "01",
+          "references": [
+            {
+              "label": "S1 Reference",
+              "audio": "assets/audio/6f54798cbe77e0ce485ef104e64dddfcea6fd2b6eed84085a2808061b2fbc99e.wav",
+              "duration": 13.0
+            },
+            {
+              "label": "S2 Reference",
+              "audio": "assets/audio/cd8e775df1ec75a4a1d1b66262b9177631e0bf8c5ce08e5a2905c2756ea8ee4b.wav",
+              "duration": 11.5
+            }
+          ],
+          "audio": "assets/audio/a6b0c05455d39ba2dc1af8f7db7e46f589766f8ca3a2f2eea0b4e5d13de3aa35.wav",
+          "duration": 28.25,
+          "description": "Content: { Speaker1 calmly holds the other speaker back: <S1>你先别喊，这波不是打不过，是根本不该接，兵线那么差，视野也没有，你冲进去那就是节目效果。</S1> Speaker2 retorts loudly: <S2>什么节目效果，我状态拉满，技能全在，你再给我一次我直接把对面打成教学素材。</S2> Speaker1 answers evenly: <S1>你这个想法就很有问题，游戏不是看谁声音大，是看谁站得住位置。</S1> Speaker2, still defiant, fires back: <S2>行，那下一波你指挥，我来操作，要是打赢了你记得承认，是我把这盘硬生生抬起来的。</S2> }."
+        },
+        {
+          "number": "02",
+          "references": [
+            {
+              "label": "S1 Reference",
+              "audio": "assets/audio/60778e3b59031577895287b5861307e79be72a11cde94081828222c365acc48a.wav",
+              "duration": 20.62
+            },
+            {
+              "label": "S2 Reference",
+              "audio": "assets/audio/6807f8c2da43f389848975e31a8a46e78e70a44a3ba2277d46272e0f713b3674.wav",
+              "duration": 7.79
+            }
+          ],
+          "audio": "assets/audio/386da439835ce03a914a4d6bc952655f0adce0c26d3d1f41f37c549013eaab2e.wav",
+          "duration": 29.59,
+          "description": "Content: { Speaker1 opens firmly: <S1>We move forward when people feel that the system still has room for them, their voice matters, the future is something we build together.</S1> Speaker2 answers more slowly, emphasizing his point: <S2>If people want strength, they want results, they want leaders who do what they say. That is what they care about.</S2> Speaker1 responds in a solemn tone: <S1>But strength without trust does not hold for very long. A nation also needs patience and institutions people believe in.</S1> Speaker2 closes with a direct rebuttal: <S2>Institutions are fine, but if they fail the people, the people want change.</S2> }."
+        },
+        {
+          "number": "04",
+          "references": [
+            {
+              "label": "Dialogue Ref",
+              "audio": "assets/audio/ff4827283ba70ac9487995d698d2a3cec156835b73a0166e7e097cca80f6f2c7.wav",
+              "duration": 36.52
+            }
+          ],
+          "audio": "assets/audio/405191e2c3cae1bf45fbba671580e0a5df3f6729ef8dcdfef0bab8aa43a5283a.wav",
+          "duration": 22.1,
+          "description": "Content: { Speaker1 argues rapidly, her anxiety rising: <S1>You keep saying it will calm down, but nothing about this is calming down. It is getting bigger every single day.</S1> Speaker2 replies with measured concern: <S2>I understand that, I do, but making one desperate move tonight could make everything even worse.</S2> Speaker1 stresses the urgency: <S1>Doing nothing is also a move, and right now it is the one that is killing us.</S1> Speaker2 slows down and asks for a way forward: <S2>Then help me find the version of this that does not destroy everything all at once, okay?</S2> }."
+        }
+      ]
+    },
+    {
+      "id": "three-four-speaker-zero-shot",
+      "label": "3–4 Speakers",
+      "mode": "clone",
+      "type": "reference",
+      "samples": [
+        {
+          "number": "05",
+          "references": [
+            {
+              "label": "S1 Reference",
+              "audio": "assets/audio/90625101c35bd265bffaa0b2b68202ac395ce448b8d79c8e212a03c243acc28d.wav",
+              "duration": 9.08
+            },
+            {
+              "label": "S2 Reference",
+              "audio": "assets/audio/d933a2a489dc3d8edc9709fff2e9ca3d8cb3ff374882fa5157bd3dc52e02377c.wav",
+              "duration": 10.09
+            },
+            {
+              "label": "S3 Reference",
+              "audio": "assets/audio/9bcd27863bfe618093e07ff13323b0a9167c35b7230bf5c0ebb6c1a6764c7631.wav",
+              "duration": 7.2
+            },
+            {
+              "label": "S4 Reference",
+              "audio": "assets/audio/1dafe83d7821b3877a1541dba6cb84badc1f202caf15bcb93a78993d9389411a.wav",
+              "duration": 21.33
+            }
+          ],
+          "audio": "assets/audio/12288df84a7a4320774ea252a49220dd47607ce3f54b358f094aea97ce88cae4.wav",
+          "duration": 47.8,
+          "description": "Content: { Speaker1 offers a musical idea calmly: <S1>我觉得这一段旋律先别急着铺满，留一点空，画面会自己长出来。</S1> Speaker2 agrees: <S2>对，很多时候最打动人的不是复杂，而是那一点很诚恳、很克制的东西。</S2> Speaker3 asks thoughtfully: <S3>那如果我在第二遍把情绪往上推，前面是不是就更要收着一点？</S3> Speaker4 explains her approach: <S4>我会想让角色先站住，先让大家相信她为什么会唱这句，然后情绪再出来。</S4> Speaker2 adds: <S2>对，观众要先被人物带进去，后面的放大才有意义。</S2> Speaker3 responds with sudden clarity: <S3>明白，那我就不一上来全开，先把细节唱给他们听。</S3> Speaker4 approves: <S4>这样层次会很漂亮，而且最后真正爆发的时候，大家会更有感觉。</S4> Speaker1 concludes: <S1>没错，技术不是为了炫，是为了把那个情绪送到最对的位置。</S1> }."
+        },
+        {
+          "number": "06",
+          "references": [
+            {
+              "label": "S1 Reference",
+              "audio": "assets/audio/bc5e3b80ca7438847f0478c9581088f0f8d3aa066a33ac603022a9192db16e3f.wav",
+              "duration": 12.86
+            },
+            {
+              "label": "S2 Reference",
+              "audio": "assets/audio/57693286ac8f0d8f6cacde3219cb8cead06090245092562a9c7936901995888e.wav",
+              "duration": 18.34
+            },
+            {
+              "label": "S3 Reference",
+              "audio": "assets/audio/60778e3b59031577895287b5861307e79be72a11cde94081828222c365acc48a.wav",
+              "duration": 20.62
+            },
+            {
+              "label": "S4 Reference",
+              "audio": "assets/audio/6807f8c2da43f389848975e31a8a46e78e70a44a3ba2277d46272e0f713b3674.wav",
+              "duration": 7.79
+            }
+          ],
+          "audio": "assets/audio/709ed58b94fbc431522fb45208180608bfbcab7ab6db02b94b3b3b5b8245e29c.wav",
+          "duration": 49.47,
+          "description": "Content: { Speaker1 opens in a calm, analytical tone: <S1>If you reason from physics and economics first, a lot of so-called impossible ideas suddenly become straightforward engineering problems.</S1> Speaker2 answers firmly: <S2>People do not care about theories if nothing changes in their lives. They want to see results, and they want them quickly.</S2> Speaker3 adds his point with conviction: <S3>That is exactly why infrastructure matters. When intelligence becomes cheap and scalable, every industry can be rebuilt around it.</S3> Speaker4 raises his voice to stress shared opportunity: <S4>But progress has to feel shared. Innovation is strongest when ordinary citizens believe it expands opportunity instead of narrowing it.</S4> After a brief pause, Speaker2 continues: <S2>Opportunity is good, but weakness is expensive.</S2> Speaker3 follows: <S3>Which is why the next era of computing has to be reliable, efficient, and accessible at global scale.</S3> Speaker4 adds, in his resonant voice: <S4>And guided by institutions strong enough to channel power toward the public good.</S4> Speaker1 closes: <S1>Yes, otherwise I believe people optimize for habit, not truth.</S1> }."
+        },
+        {
+          "number": "08",
+          "references": [
+            {
+              "label": "S1 Reference",
+              "audio": "assets/audio/dbccc96328135b87a9a94aa2d57a1d24a35c5b3a2a29f84cc232a4bb9e00336d.wav",
+              "duration": 21.7
+            },
+            {
+              "label": "S2 Reference",
+              "audio": "assets/audio/90625101c35bd265bffaa0b2b68202ac395ce448b8d79c8e212a03c243acc28d.wav",
+              "duration": 9.08
+            },
+            {
+              "label": "S3 Reference",
+              "audio": "assets/audio/bdde3e0dfdef0c49281f378e3a1e1c2370a1c1ef475557601a85dae9d97bee13.wav",
+              "duration": 11.12
+            },
+            {
+              "label": "S4 Reference",
+              "audio": "assets/audio/9fb9ed9e708845d3f84999f8c605934c0bada0f9426c0fea82ff774b9deeb973.wav",
+              "duration": 4.5
+            }
+          ],
+          "audio": "assets/audio/991a710fc4123df0ca53f2ce69406ed53e438f38fb6d3b117082ec29c35b564b.wav",
+          "duration": 57.05,
+          "description": "Content: { Speaker1 orders everyone to be quiet: <S1>都给我安静，事情闹到这个地步，谁也别想装没看见，今天非得把规矩说清楚不可！</S1> Speaker4 stammers defensively: <S4>我、我真的只是路过，你们突然都看着我，我现在脑子里一片空白呀。</S4> Speaker1 presses the question: <S1>路过不路过先放一边，我现在问的是，到底是谁先开的口，谁先搞的事！</S1> Speaker3 grumbles in protest: <S3>哼，反正不是我一个人的问题，你们一个个都在那儿添油加火，现在倒全想把账算我头上。</S3> Speaker1 shoots back: <S1>你这话说得轻巧，刚才最响的就是你，现在又想往后缩。</S1> Speaker4 tries to calm them: <S4>要不，要不大家先别吵了，坐下来吃点东西再讲道理，好不好？我觉得再吵下去会更乱的。</S4> Speaker2 cuts him off sharply: <S2>吃什么吃！规矩没讲明白，谁都别想散！</S2> Speaker3 accepts the challenge: <S3>行啊，那就把话摊开讲，我倒要看看今天到底是谁最不讲理！</S3> }."
+        }
+      ]
+    }
+  ]
+}
