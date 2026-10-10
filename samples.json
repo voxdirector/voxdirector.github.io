@@ -26,22 +26,22 @@
           "references": [
             {
               "label": "S1 reference",
-              "audio": "assets/audio/a0467924c369c6d16f03522ff604f446100cef675b03fc0e314ac730872d2d8e.wav",
+              "audio": "assets/audio/b9603b1648ec5b6e2f51ad84b72c9bb5e7de4ecf76233a658975a839dd19a50a.wav",
               "duration": 8.28
             },
             {
               "label": "S2 reference",
-              "audio": "assets/audio/2c793d9278dfb900751fe80bef73339db8981ac80d5dac8578513da10785dd65.wav",
+              "audio": "assets/audio/37539a50da6f6683a268c4c79f8769ad6c8ffb963194871ef45a9e4bcb703b75.wav",
               "duration": 9.12
             },
             {
               "label": "S3 reference",
-              "audio": "assets/audio/6fc651a80e8ebad6e13c497ead6a366656c178bb006086b4b6f49c183b5eb526.wav",
+              "audio": "assets/audio/f438d295f22bde00b46351840627eaae705fcaf0e668e6d47916667ea5a31be5.wav",
               "duration": 8.28
             },
             {
               "label": "S4 reference",
-              "audio": "assets/audio/9b8b46f3bbc314d270e95338e40671bbf20d3e9c27290630de530e9c97d946c3.wav",
+              "audio": "assets/audio/e9f79198027ec9305a3da729dc04aadb32e1638d990ef6ae23fbe31c8932612f.wav",
               "duration": 8.28
             }
           ]
