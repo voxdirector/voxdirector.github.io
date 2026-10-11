@@ -9,7 +9,7 @@ let waveforms = {};
 let lastGroupByMode = {};
 let sectionOrder = [];
 const audioVersion = '20261003x';
-const dataVersion = '20261011-scene03-content';
+const dataVersion = '20261011-scene-order';
 
 function groupMode(index) {
   return groups[index].mode;
