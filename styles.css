@@ -121,8 +121,8 @@ button[hidden] { display: none; }
   .page-container { width: calc(100% - 36px); }
   .site-header nav { height: 66px; }
   .wordmark { font-size: 20px; }
-  .header-link { font-size: 13px; }
-  .header-links { gap: 12px; }
+  .header-link { font-size: 12px; white-space: nowrap; }
+  .header-links { gap: 10px; }
   .publication-header { padding: 34px 0 44px; }
   .publication-title { margin-bottom: 16px; font-size: clamp(42px, 11vw, 60px); }
   .publication-subtitle { max-width: 420px; margin-bottom: 24px; font-size: 17px; line-height: 1.5; }
