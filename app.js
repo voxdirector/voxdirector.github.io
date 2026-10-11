@@ -9,7 +9,8 @@ let waveforms = {};
 let lastGroupByMode = {};
 let sectionOrder = [];
 const audioVersion = '20261003x';
-const dataVersion = '20261011-scene-order';
+const dataVersion = '20261011-voxvae-demo';
+const activeComparisons = new Map();
 
 function groupMode(index) {
   return groups[index].mode;
@@ -32,7 +33,7 @@ function makeLabel(text) {
   return label;
 }
 
-function makeAudio(src, label, seconds) {
+function makeAudio(src, label, seconds, comparisonKey) {
   const wrap = document.createElement('div');
   wrap.className = 'audio-block';
   wrap.append(makeLabel(label));
@@ -40,6 +41,7 @@ function makeAudio(src, label, seconds) {
   audio.preload = 'none';
   audio.src = `${src}?v=${audioVersion}`;
   audio.setAttribute('aria-label', label);
+  let pendingPosition = null;
   const player = document.createElement('div');
   player.className = 'audio-player';
   const play = document.createElement('button');
@@ -83,6 +85,10 @@ function makeAudio(src, label, seconds) {
   audio.addEventListener('loadedmetadata', () => {
     timeline.max = String(audio.duration);
     timeline.disabled = false;
+    if (pendingPosition !== null) {
+      audio.currentTime = Math.min(pendingPosition, Math.max(0, audio.duration - 0.05));
+      pendingPosition = null;
+    }
     updateTime();
   });
   audio.addEventListener('timeupdate', updateTime);
@@ -102,6 +108,13 @@ function makeAudio(src, label, seconds) {
     if (!audio.paused) {
       audio.pause();
       return;
+    }
+    if (comparisonKey) {
+      const previous = activeComparisons.get(comparisonKey);
+      const position = previous && !previous.ended ? previous.currentTime : 0;
+      activeComparisons.set(comparisonKey, audio);
+      if (audio.readyState >= 1) audio.currentTime = Math.min(position, Math.max(0, audio.duration - 0.05));
+      else pendingPosition = position;
     }
     document.querySelectorAll('audio').forEach(other => {
       if (other !== audio) other.pause();
@@ -173,6 +186,17 @@ function makeDescription(value, label) {
 
 function sampleRow(sample, group) {
   const row = document.createElement('li');
+  if (group.type === 'reconstruction') {
+    row.className = 'sample-row is-reconstruction';
+    const comparison = document.createElement('div');
+    comparison.className = 'reconstruction-comparison';
+    comparison.append(
+      makeAudio(sample.original.audio, 'Original', sample.original.duration, sample.caseId),
+      makeAudio(sample.audio, 'Reconstruction', sample.duration, sample.caseId)
+    );
+    row.append(comparison);
+    return row;
+  }
   row.className = `sample-row ${group.type === 'scene' ? 'is-scene' : group.type === 'reference' ? 'is-reference' : ''}`;
   if (sample.description) row.classList.add('has-description');
   const description = document.createElement('div');
@@ -215,14 +239,20 @@ function renderSamples() {
     const card = document.createElement('article');
     card.className = 'sample-card';
     card.dataset.sample = sample.number;
+    if (sample.caseId) card.dataset.case = sample.caseId;
     const header = document.createElement('div');
     header.className = 'sample-header';
-    const title = document.createElement('h3');
-    title.textContent = group.label;
+    if (group.type === 'reconstruction') {
+      header.classList.add('is-reconstruction');
+    } else {
+      const title = document.createElement('h3');
+      title.textContent = group.label;
+      header.append(title);
+    }
     const count = document.createElement('span');
     count.className = 'sample-count';
     count.textContent = `${String(sampleIndex + 1).padStart(2, '0')} / ${String(group.samples.length).padStart(2, '0')}`;
-    header.append(title, count);
+    header.append(count);
     const body = document.createElement('ul');
     body.className = 'sample-body';
     body.append(sampleRow(sample, group));
@@ -268,6 +298,8 @@ function selectGroup(index, focusTab = false) {
   const mode = groupMode(index);
   document.querySelectorAll('audio').forEach(audio => audio.pause());
   activeGroup = index;
+  const isVae = mode === 'voxvae';
+  document.querySelector('#samples-title').textContent = isVae ? 'VoxVAE reconstruction' : 'Audio samples';
   lastGroupByMode[mode] = index;
   [...modeTabs.children].forEach(button => button.setAttribute('aria-pressed', String(button.dataset.mode === mode)));
   [...tabs.children].forEach((tab, tabIndex) => {
@@ -291,7 +323,8 @@ function setupTabs() {
   const modes = [
     { key: 'scene', label: 'Audio Scenes' },
     { key: 'design', label: 'Voice Design' },
-    { key: 'clone', label: 'Voice Clone' }
+    { key: 'clone', label: 'Voice Clone' },
+    { key: 'voxvae', label: 'VoxVAE' }
   ];
   sectionOrder = modes.flatMap(({ key }) => groups.map((_, index) => index).filter(index => groupMode(index) === key));
   modes.forEach(({ key, label }) => {
@@ -332,7 +365,8 @@ function setupTabs() {
   tabs.addEventListener('scroll', updateCategoryScroll, { passive: true });
   window.addEventListener('resize', updateCategoryScroll);
   updateCategoryScroll();
-  selectGroup(0);
+  const requestedMode = new URLSearchParams(window.location.search).get('demo');
+  selectGroup(lastGroupByMode[requestedMode] ?? 0);
 }
 
 Promise.all([

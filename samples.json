@@ -391,6 +391,201 @@
           "description": "Content: { Speaker1 orders everyone to be quiet: <S1>都给我安静，事情闹到这个地步，谁也别想装没看见，今天非得把规矩说清楚不可！</S1> Speaker4 stammers defensively: <S4>我、我真的只是路过，你们突然都看着我，我现在脑子里一片空白呀。</S4> Speaker1 presses the question: <S1>路过不路过先放一边，我现在问的是，到底是谁先开的口，谁先搞的事！</S1> Speaker3 grumbles in protest: <S3>哼，反正不是我一个人的问题，你们一个个都在那儿添油加火，现在倒全想把账算我头上。</S3> Speaker1 shoots back: <S1>你这话说得轻巧，刚才最响的就是你，现在又想往后缩。</S1> Speaker4 tries to calm them: <S4>要不，要不大家先别吵了，坐下来吃点东西再讲道理，好不好？我觉得再吵下去会更乱的。</S4> Speaker2 cuts him off sharply: <S2>吃什么吃！规矩没讲明白，谁都别想散！</S2> Speaker3 accepts the challenge: <S3>行啊，那就把话摊开讲，我倒要看看今天到底是谁最不讲理！</S3> }."
         }
       ]
+    },
+    {
+      "id": "voxvae-speech",
+      "label": "Speech",
+      "mode": "voxvae",
+      "type": "reconstruction",
+      "model": "v14z96",
+      "checkpointStep": 202000,
+      "samples": [
+        {
+          "number": "01",
+          "caseId": "case25",
+          "audio": "assets/audio/e149d85afda71704d38ccb08b360fce7b072f5f1c4736c3a94db22a8c4177c22.wav",
+          "duration": 9.56,
+          "original": {
+            "audio": "assets/audio/c0eba4c0cc94733919a95d37a58ad0cbaf6d938e095f0585093130ae826d8061.wav",
+            "duration": 9.56
+          },
+          "mae": 0.0013072559191758331
+        },
+        {
+          "number": "02",
+          "caseId": "case22",
+          "audio": "assets/audio/1160eeba3102f995dc67768c1d17614174db70856da1b5e2a938b049d78241e6.wav",
+          "duration": 9.96,
+          "original": {
+            "audio": "assets/audio/f07c7bbfbc890e8496df544ca0845acab45e5b0701ca765fd262325ed8038d67.wav",
+            "duration": 9.96
+          },
+          "mae": 0.006055797502857295
+        },
+        {
+          "number": "03",
+          "caseId": "case18",
+          "audio": "assets/audio/3386041c8e11340d3d1da7461149b98456941bd0ee67ac15ab0d36d14fd4be62.wav",
+          "duration": 5.0,
+          "original": {
+            "audio": "assets/audio/f6e66883efc8dc6b4be54dc2c0c3cf51caaa9be476c7d4d95a4f578924c09557.wav",
+            "duration": 5.0
+          },
+          "mae": 0.00891727180480957
+        },
+        {
+          "number": "04",
+          "caseId": "case26",
+          "audio": "assets/audio/9a659c39274342389789d79fd43f93fcc51bfb41e3f891146a7c1eb8b20d99c7.wav",
+          "duration": 9.96,
+          "original": {
+            "audio": "assets/audio/f81479eb987326b6f449fdcd9acbfeb6c91255fec50c6aedaa2f3ebb604f04bb.wav",
+            "duration": 9.96
+          },
+          "mae": 0.009564935857831554
+        },
+        {
+          "number": "05",
+          "caseId": "case19",
+          "audio": "assets/audio/d06b1350c143b852890cb56e9a91ea4a1d965e81eeb533cee0d663cf781758bc.wav",
+          "duration": 5.0,
+          "original": {
+            "audio": "assets/audio/ba1a79e610cde058d2110fb8883e2bb0c780c7c6a55822feb3e83c7f9a7b91a6.wav",
+            "duration": 5.0
+          },
+          "mae": 0.011014539845784505
+        }
+      ]
+    },
+    {
+      "id": "voxvae-music",
+      "label": "Music",
+      "mode": "voxvae",
+      "type": "reconstruction",
+      "model": "v14z96",
+      "checkpointStep": 202000,
+      "samples": [
+        {
+          "number": "01",
+          "caseId": "case24",
+          "audio": "assets/audio/1f20973fdee8e538b8736e0621c2ebf69f86ebe2bb93aeb930745e0b1f0ee641.wav",
+          "duration": 6.28,
+          "original": {
+            "audio": "assets/audio/76f053ba4a6d34566fe42154b006d766634382674dd5a0ec101b003a35a4715b.wav",
+            "duration": 6.28
+          },
+          "mae": 0.00126062077321824
+        },
+        {
+          "number": "02",
+          "caseId": "case03",
+          "audio": "assets/audio/317f8e5c7dbd245740dcc250febd21157779dceca7c1de8603edbde578afed42.wav",
+          "duration": 9.96,
+          "original": {
+            "audio": "assets/audio/72fce8bad5c39141c3b299b4ec66beb07a9803723674eb846e486befa18e0853.wav",
+            "duration": 9.96
+          },
+          "mae": 0.014786121388834962
+        },
+        {
+          "number": "03",
+          "caseId": "case02",
+          "audio": "assets/audio/1325d52ed1965dc7780b0172b288c407810614f4e3258d4eb0101d9a96f9fc97.wav",
+          "duration": 7.0,
+          "original": {
+            "audio": "assets/audio/724c10d25542a01882b00b6d30edb16db04c50263f2da9e259323ffe7abbdf06.wav",
+            "duration": 7.0
+          },
+          "mae": 0.016689739590599422
+        },
+        {
+          "number": "04",
+          "caseId": "case04",
+          "audio": "assets/audio/6c6887b3a5e60662ea84ac7d2584f9176e62330104c189f705c1582a9921e5c1.wav",
+          "duration": 3.56,
+          "original": {
+            "audio": "assets/audio/237cb9051d8042526b0e5e0d5d1b2d03414cb176bdb37717d43c95ed930f9fd3.wav",
+            "duration": 3.56
+          },
+          "mae": 0.04936477986167879
+        },
+        {
+          "number": "05",
+          "caseId": "case05",
+          "audio": "assets/audio/08b479609f910e587563bf55a142d9b6cc8facccf8377bc07de755f8e293e67d.wav",
+          "duration": 5.0,
+          "original": {
+            "audio": "assets/audio/effb453a2f94eaf6dc903fd780b66c6ef36bf6fe3ca3ab75b525d4d0f8f6a66f.wav",
+            "duration": 5.0
+          },
+          "mae": 0.06589965375264485
+        }
+      ]
+    },
+    {
+      "id": "voxvae-audio",
+      "label": "General Audio",
+      "mode": "voxvae",
+      "type": "reconstruction",
+      "model": "v14z96",
+      "checkpointStep": 202000,
+      "samples": [
+        {
+          "number": "01",
+          "caseId": "case28",
+          "audio": "assets/audio/3f5504cefacfa22f9c21142f43e059f75a197df5bb7bcb44a8b99f3e17ea5a29.wav",
+          "duration": 9.96,
+          "original": {
+            "audio": "assets/audio/fb8ce15a09d1bc02d1989b5f30382a929e07619a8da5077fdac4f2c297ed680e.wav",
+            "duration": 9.96
+          },
+          "mae": 0.0013398492192647543
+        },
+        {
+          "number": "02",
+          "caseId": "case15",
+          "audio": "assets/audio/7ce9530b62edc97d156e3161e03b00ef0a422e3b877402d9e33be60ff49ca89f.wav",
+          "duration": 4.68,
+          "original": {
+            "audio": "assets/audio/8583c3af918209133fc3121c87120687b0b0f332c4905fa5c5cd0667f3fb6a5f.wav",
+            "duration": 4.68
+          },
+          "mae": 0.0017141687224733184
+        },
+        {
+          "number": "03",
+          "caseId": "case30",
+          "audio": "assets/audio/0f2278e03885d015184da040cacefe11d635880c89459d5ce15f9a130891f066.wav",
+          "duration": 10.76,
+          "original": {
+            "audio": "assets/audio/4775f865ccab8a2ab056d6b0269c9603ccf5efd7f5f19be2f3bf94eb9e13e8fb.wav",
+            "duration": 10.76
+          },
+          "mae": 0.00449532895283185
+        },
+        {
+          "number": "04",
+          "caseId": "case09",
+          "audio": "assets/audio/d82120d0f4cd2122714ed3533852c2a4f590e424d5b370af2e8bfcd29b90071a.wav",
+          "duration": 15.64,
+          "original": {
+            "audio": "assets/audio/e196e4d88639c27f33de793372a2b558e23c21e3f66f61ecdd71b0e5315e429a.wav",
+            "duration": 15.64
+          },
+          "mae": 0.006982838020097061
+        },
+        {
+          "number": "05",
+          "caseId": "case29",
+          "audio": "assets/audio/a9879cccc85a66ab7a5b055c578eadfbc8185c6a518c7e3ab911379ad00b9b84.wav",
+          "duration": 6.0,
+          "original": {
+            "audio": "assets/audio/459da170042e5a29ca0e4dd9933571b8ba3035522a9d6c34f698a7df10b107bb.wav",
+            "duration": 6.0
+          },
+          "mae": 0.007129340595669217
+        }
+      ]
     }
   ]
 }
